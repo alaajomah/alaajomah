@@ -33,12 +33,11 @@ I am an AI graduate passionate about building intelligent applications and solvi
 ### Cloud
 - AWS
 
-## Featured Projects
 
 ## Featured Projects
 
 ### Resume Screening & Job Matching Assistant
-
+[View Repository](https://github.com/alaajomah/Resume-Screening-Job-Matching-Assistant.git)
 AI-powered recruitment assistant that extracts information from resumes and job descriptions, performs semantic matching, identifies skill gaps, and generates personalized interview questions.
 
 **Key Features**
@@ -55,7 +54,7 @@ Python, Streamlit, OpenAI API, PyMuPDF, Tesseract OCR
 ---
 
 ### Doctor Nabat JO – Plant Disease Detection System
-
+[View](https://www.kaggle.com/drnabatjo)
 Bilingual AI-powered platform for automated plant disease diagnosis and treatment recommendations for Jordanian agriculture.
 
 **Key Features**
