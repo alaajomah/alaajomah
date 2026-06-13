@@ -10,7 +10,7 @@ Interested in:
 - AI Agents
 
 
-## About Me
+## 👉About Me
 
 I am an AI graduate passionate about building intelligent applications and solving real-world problems using machine learning , deep learning and generative AI technologies.
 
@@ -34,7 +34,7 @@ I am an AI graduate passionate about building intelligent applications and solvi
 - AWS
 
 
-## Featured Projects
+## 💡Featured Projects
 
 ### Resume Screening & Job Matching Assistant
 [View Repository](https://github.com/alaajomah/Resume-Screening-Job-Matching-Assistant.git)
