@@ -56,7 +56,7 @@ Python, Streamlit, OpenAI API, PyMuPDF, Tesseract OCR
 AI-powered Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and ask questions about their content. The system retrieves the most relevant information using vector similarity search (FAISS) and generates accurate, context-aware responses using OpenAI language models.
 
 ## 🚀 Live Demo
-[Try on Hugging Face](YOUR_HUGGINGFACE_LINK)
+[Try on Hugging Face](https://huggingface.co/spaces/alaa03/GenerativeAI-Course-Study-Chatbot)
 
 **Key Features**
 
